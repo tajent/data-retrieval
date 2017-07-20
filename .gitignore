@@ -50,3 +50,5 @@ crashlytics.properties
 crashlytics-build.properties
 fabric.properties
 
+# DS-Store custom Mac attributes
+.DS_Store
